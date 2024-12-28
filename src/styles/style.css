@@ -58,7 +58,7 @@ h1 {
     cursor: pointer;
     display: none; /* Initially hidden */
     position: absolute;
-    top: 50%;
+    top: 60%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
@@ -70,7 +70,7 @@ h1 {
 .popup {
     display: none;
     position: fixed;
-    top: 50%;
+    top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: white;
