@@ -5,15 +5,9 @@ This is a simple Tic Tac Toe game built using HTML, CSS, and JavaScript. The gam
 ## Project Structure
 
 ```
-tic-tac-toe-game
-├── src
-│   ├── index.html        # Main HTML document for the game
-│   ├── styles
-│   │   └── style.css     # Styles for the game
-│   └── scripts
-│       └── app.js        # JavaScript logic for the game
-└── README.md             # Project documentation
+tictactoewebsite ├── src │ ├── index.html # Main HTML document for the game │ ├── styles │ │ └── style.css # Styles for the game │ └── scripts │ └── app.js # JavaScript logic for the game └── README.md # Project documentation
 ```
+
 
 ## How to Play
 
@@ -21,12 +15,15 @@ tic-tac-toe-game
 2. Players take turns clicking on the empty squares of the grid.
 3. The first player to get three of their symbols in a row (horizontally, vertically, or diagonally) wins the game.
 4. If all squares are filled and no player has three in a row, the game ends in a draw.
+5. When the game ends, a popup will display the result, and a "Reset Game" button will appear below the game board to restart the game.
 
 ## Features
 
 - Two-player mode
 - Simple and intuitive interface
 - Responsive design
+- Popup message displaying the game result
+- Reset button to restart the game
 
 ## Getting Started
 
