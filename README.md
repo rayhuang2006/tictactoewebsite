@@ -5,7 +5,14 @@ This is a simple Tic Tac Toe game built using HTML, CSS, and JavaScript. The gam
 ## Project Structure
 
 ```
-tictactoewebsite ├── src │ ├── index.html # Main HTML document for the game │ ├── styles │ │ └── style.css # Styles for the game │ └── scripts │ └── app.js # JavaScript logic for the game └── README.md # Project documentation
+tictactoewebsite 
+├── src 
+│ ├── index.html # Main HTML document for the game 
+│ ├── styles 
+│ │ └── style.css # Styles for the game 
+│ └── scripts 
+│ └── app.js # JavaScript logic for the game 
+└── README.md # Project documentation
 ```
 
 
